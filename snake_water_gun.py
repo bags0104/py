@@ -1,7 +1,7 @@
 import random
 print("LET'S PLAY SNAKE WATER AND GUN \n")
 l = ["snake", "water", "gun"]
-print("YOU HAVE 5 CHANCES\n")
+print("YOU HAVE 10 CHANCES\n")
 print("Enter s for snake, w for water, g for gun\n")
 user_score = 0
 comp_score = 0
